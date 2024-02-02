@@ -1,0 +1,1 @@
+export type { MediaProps } from "./media";
